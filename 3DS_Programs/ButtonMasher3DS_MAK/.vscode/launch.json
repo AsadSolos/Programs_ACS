@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/asadsolos/Documents/Programs_ACS/3DS_Programs/hello-world/source",
+      "program": "/Users/asadsolos/Documents/Programs_ACS/3DS_Programs/hello-world/source/build/Debug/outDebug"
+    }
+  ]
+}
